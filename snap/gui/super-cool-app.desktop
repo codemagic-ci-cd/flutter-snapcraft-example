@@ -1,8 +1,8 @@
 [Desktop Entry]
-Name=Super Cool App
-Comment=Super Cool App that does everything!
+Name=Flutter Codemagic Example
+Comment=Flutter Codemagic Example that does everything!
 Icon=${SNAP}/meta/gui/icon.png
-Exec=super-cool-app %U
+Exec=flutter-codemagic-example %U
 Terminal=false
 Type=Application
 Categories=Games;

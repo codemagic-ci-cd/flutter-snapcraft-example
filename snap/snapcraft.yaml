@@ -1,7 +1,7 @@
-name: super-cool-app
+name: flutter-codemagic-example
 version: git
-summary: Super Cool App
-description: Super Cool App that does everything!
+summary: Flutter Codemagic Example
+description: Flutter Codemagic Example that does everything!
 confinement: strict
 base: core18
 grade: stable
@@ -10,12 +10,12 @@ architectures:
   - build-on: [ arm64 ]
 
 apps:
-  super-cool-app:
-    command: super_cool_app
+  flutter-codemagic-example:
+    command: flutter_codemagic_example
     extensions: [flutter-master]
 
 parts:
-  super-cool-app:
+  flutter-codemagic-example:
     source: .
     plugin: flutter
     flutter-target: lib/main.dart # The main entry-point file of the application

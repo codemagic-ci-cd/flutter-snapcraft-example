@@ -1,4 +1,4 @@
-# super_cool_app
+# flutter_codemagic_example
 
 A new Flutter project.
 
