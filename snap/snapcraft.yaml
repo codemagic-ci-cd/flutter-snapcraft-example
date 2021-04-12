@@ -12,7 +12,11 @@ architectures:
 apps:
   flutter-codemagic-example:
     command: flutter_codemagic_example
+<<<<<<< HEAD
     extensions: [flutter-master]
+=======
+    extensions: [flutter-stable]
+>>>>>>> 3595bd5ba09b7d3d0c111b4b7b7d3936c20b3382
 
 parts:
   flutter-codemagic-example:
