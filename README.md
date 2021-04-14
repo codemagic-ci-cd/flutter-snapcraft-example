@@ -1,7 +1,5 @@
 # flutter_codemagic_example
 
-# flutter_codemagic_example
-
 ## Create snap
 
     snapcraft snap --output flutter-snapcraft-example.snap
