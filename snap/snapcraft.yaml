@@ -12,7 +12,7 @@ architectures:
 apps:
   flutter-codemagic-example:
     command: flutter_codemagic_example
-    extensions: [flutter-master]
+    extensions: [flutter-stable]
 
 parts:
   flutter-codemagic-example:
